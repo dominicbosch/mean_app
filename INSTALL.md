@@ -23,4 +23,5 @@ Installation on Ubuntu
 		mean init <Your App Name>				# mean_app serves as an example and is already and initiated mean stack plus additional content
 		cd <Your App Name>						# change to app directory
 		npm install 							# Install required NPM modules
+		mean package <YourPackage>				# Install a new package, to be found in <Your App Name>/packages/custom/<YourPackage>
 		
